@@ -14,6 +14,9 @@ The page will reload if you make edits. You will also see any lint errors in the
 ```
 
 
+![ReactiveSearch Elasticsearch Interface](./reactiveSearch.gif)
+
+
 # ReactiveSearch App
 
 We can either add [ReactiveSearch](https://opensource.appbase.io/reactivesearch) to an existing app or create a boilerplate app with Create React App (CRA):
